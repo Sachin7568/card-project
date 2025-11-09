@@ -1,12 +1,34 @@
-# React + Vite
+# 🚀 Job Finder: Dynamic Card Layout
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌟 Discover Your Next Opportunity!
 
-Currently, two official plugins are available:
+Welcome to the **Job Card Project**, a dynamic and visually appealing web application designed to showcase a list of mock job openings. It features modern, reusable cards that make browsing opportunities intuitive and clean.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Perfect for front-end demos or displaying structured data elegantly!
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Core Features
+
+* **Reusable Component Design**: Built around the clean `<Card />` component for easy scaling.
+* **Data-Driven UI**: Job details are easily managed and rendered from a central JavaScript array.
+* **Intuitive Icons**: Uses the popular **Lucide React** library for sharp, clear icons (like the save bookmark!).
+* **Sleek Styling**: A minimal, modern design provides an excellent user experience.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technology | Purpose |
+| :--- | :--- | :--- |
+| **Framework** | **React** | Building the user interface. |
+| **Tooling** | **Vite** | Fast development server and bundling. |
+| **Language** | **JavaScript (ES6+)** | Core application logic. |
+| **Styling** | **CSS** | Layout and visual design (`index.css`). |
+| **Icons** | **Lucide React** | Simple, consistent icon set. |
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License**.
