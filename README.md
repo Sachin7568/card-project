@@ -1,8 +1,8 @@
-# 🚀 Job Finder: Dynamic Card Layout
+# 🚀 Card Project
 
 ## 🌟 Discover Your Next Opportunity!
 
-Welcome to the **Job Card Project**, a dynamic and visually appealing web application designed to showcase a list of mock job openings. It features modern, reusable cards that make browsing opportunities intuitive and clean.
+Welcome to the **Job Card Project**, a visually appealing web application designed to showcase a list of mock job openings. It features modern, reusable cards that make browsing opportunities intuitive and clean.
 
 Perfect for front-end demos or displaying structured data elegantly!
 
